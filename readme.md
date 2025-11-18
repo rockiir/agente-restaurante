@@ -8,7 +8,7 @@ O fluxo registra os pedidos em **Postgres** e pode ser testado via webhook públ
 
 ---
 
-![]([C:\Users\raquel\AppData\Roaming\marktext\images\2025-11-18-00-10-24-image.png](https://github.com/rockiir/agente-restaurante/blob/main/chrome_hylmAE0qhC.png))
+![<alt-text>](https://github.com/rockiir/agente-restaurante/blob/main/chrome_hylmAE0qhC.png)
 
 ## Funcionalidades
 
@@ -139,4 +139,5 @@ Para testar o agente:
    - README
    
    - Scripts n8n
+
 
